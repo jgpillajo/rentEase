@@ -8,3 +8,4 @@ La app tiene un tipo de usuario, que es el que va a buscar por un departamento. 
 es el que maneja la información de todos los departamentos (crear, actualizar, borrar). El
 app va a permitir al usuario navegar todos los departamentos en una aplicación fácil de
 usar y va a poder marcar y desmarcar como favoritos.
+Este es un comentario
